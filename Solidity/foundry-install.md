@@ -4,5 +4,6 @@
 
 To install Foundry, you can use the following command:
 
-```bash
+```sh
 curl -L https://foundry.paradigm.xyz | bash
+```
