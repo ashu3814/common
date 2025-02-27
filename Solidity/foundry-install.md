@@ -22,3 +22,18 @@ You can find this command and more information on the [Foundry website](https://
 ```sh
 foundryup
 ```
+
+# Foundry Commands
+
+## Forge
+`**forge**` is used for **building**, **testing**, and **deploying** smart contracts. It streamlines the development process by managing dependencies and running tests efficiently.
+
+## Cast
+`**cast**` is a command-line tool for **interacting** with smart contracts and **sending transactions**. It simplifies contract interaction and transaction management.
+
+## Anvil
+`**anvil**` is a local **Ethereum development node** that allows developers to **test** and **debug** smart contracts in a controlled environment.
+
+## Chisel
+`**chisel**` is a **Solidity REPL** (Read-Eval-Print Loop) that provides an interactive environment for **writing** and **testing** Solidity code snippets.
+
