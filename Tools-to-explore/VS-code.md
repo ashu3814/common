@@ -61,6 +61,9 @@
   - Note: Press `Cmd + K` followed by `Cmd + Enter` to clear the terminal. (VS Code-specific shortcut)
 - `clear`: Clear terminal
   - Note: Typing `clear` and pressing Enter clears the terminal. (Standard shell command)
+ 
+- `Ctrl + U`: Clear line in terminal
+- `Ctrl + L`: Clear terminal 
 
 </details>
 
