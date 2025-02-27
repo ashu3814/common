@@ -1,6 +1,4 @@
-
-
-# Foundry Installation and Usage
+# Foundry Installation Command
 
 ## Installing Foundry
 
