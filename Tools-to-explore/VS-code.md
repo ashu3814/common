@@ -57,6 +57,10 @@
 - `Cmd + Shift + ```: Create new terminal
 - `Cmd + C`: Copy selection
 - `Cmd + V`: Paste into terminal
+- `Cmd + K`: Clear terminal
+  - Note: Press `Cmd + K` followed by `Cmd + Enter` to clear the terminal. (VS Code-specific shortcut)
+- `clear`: Clear terminal
+  - Note: Typing `clear` and pressing Enter clears the terminal. (Standard shell command)
 
 </details>
 
