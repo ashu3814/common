@@ -63,6 +63,7 @@
   - Note: Typing `clear` and pressing Enter clears the terminal. (Standard shell command)
  
 - `Ctrl + U`: Clear line in terminal
+- `Ctrl + W`: Clear terminal word by word
 - `Ctrl + L`: Clear terminal 
 
 </details>
