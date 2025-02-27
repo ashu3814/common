@@ -53,7 +53,7 @@
 <details>
 <summary>Integrated Terminal</summary>
 
-- `Ctrl + ```: Toggle terminal
+- `Ctrl + ```  or `Cmd + J`: Toggle terminal
 - `Cmd + Shift + ```: Create new terminal
 - `Cmd + C`: Copy selection
 - `Cmd + V`: Paste into terminal
