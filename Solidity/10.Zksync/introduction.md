@@ -11,7 +11,7 @@ This lesson focuses on deploying smart contracts on **ZKsync Layer 2**, which re
 ### 1. 🛠️ **Install `foundry-zksync`**
    - Clone the **Foundry ZKsync** repository (a fork of Foundry designed for ZKsync) in a separate directory:
      ```bash
-     git clone <repository_link>
+     git clone https://github.com/matter-labs/foundry-zksync.git
      ```
    - Navigate to the cloned repository and install it:
      ```bash
