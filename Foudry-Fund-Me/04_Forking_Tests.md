@@ -28,6 +28,10 @@ function testPriceFeedVersionIsAccurate() public {
   ```bash
   forge test --mt testPriceFeedVersionIsAccurate
   ```
+- For more information Use :
+  ```bash
+  forge test --mt testPriceFeedVersion -vvv
+  ```
 
 ### **Forking to Fix the Issue**
 - Forking is the solution to test on an anvil instance that copies the current Sepolia state where AggregatorV3 exists.
